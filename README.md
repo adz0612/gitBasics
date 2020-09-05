@@ -9,4 +9,4 @@ This is a new commit.
 
 Hello from vs code.
 
-New stuff form a new branch.
+New stuff form a new branch. I am the master.
