@@ -14,3 +14,6 @@ New stuff form a new branch. I am the master.
 =======
 New stuff form a new branch. Please consider this.
 >>>>>>> newFeature
+
+
+These are the new changes from a new user.
