@@ -19,3 +19,6 @@ New stuff form a new branch. Please consider this.
 
 These are the new changes from a new user.
 >>>>>>> ad0a3b8ba7b2669d198beaa08f789783d41ac258
+
+
+New changes.
